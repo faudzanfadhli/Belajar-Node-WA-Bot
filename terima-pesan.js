@@ -1,4 +1,4 @@
-const p = 'Fauzan'
-pesan = (p) => `Hallo ${p}`
+const master = 'Fauzan'
+pesan = (master) => `Hallo ${master}`
 
-console.log(pesan(p))
+console.log(pesan(master))
